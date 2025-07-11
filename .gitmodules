@@ -1,0 +1,3 @@
+[submodule "natural-language-processing-with-transformers-Notebooks"]
+	path = natural-language-processing-with-transformers-Notebooks
+	url = git@github.com:nlp-with-transformers/notebooks.git
